@@ -44,7 +44,7 @@ console.log(
 );
 // я что-то тут намудрил, но всё работает, слова посчитаны :)
 
-Task 6
+// Task 6
 let name_user = prompt("Enter your name");
 let age_user = prompt("Enter your age");
 console.log(name_user);
